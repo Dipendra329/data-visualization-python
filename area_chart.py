@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-
+# put random number
 x= [1, 2, 3, 4, 5]
 y1=[10, 15, 25, 30, 35]
 y2= [5, 10, 20, 25, 30]
